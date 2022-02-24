@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Saya Hanif</h1>
+<h3 align="center">Saya Mahasiswa di Universitas Sebelas Maret</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **hanifarafi7@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **Saya suka hal-hal yang berkaitan dengan dunia IT**
 
 ## 🚀 Languages and Tools:
 
