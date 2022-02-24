@@ -5,7 +5,7 @@
 
 - 🔭 Saya sekarang sedang berkuliah di **Universitas Sebelas Maret**
 
-- 🌱 Saya sekarang sedang menekuni Teknologi Web dan Aplikasi Mobile **Data Structures and Algorithms.**
+- 🌱 Saya sekarang sedang menekuni **Teknologi Web dan Aplikasi Mobile**
 
 - 📫 Kontak email **hanifarafi7@gmail.com**
 
@@ -16,9 +16,9 @@
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/php.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/officel/16/000000/react.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> </a>
     <a href=https://www.python.org/ target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a>
-    <a href=https://codeigniter.com/ target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-codeigniter-is-an-open-source-       software-rapid-development-web-framework-logo-shadow-tal-revivo.png"/> </a>
+    <a href=https://codeigniter.com/ target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-shadow-tal-revivo.png"/> </a>
     <a href=https://laravel.com/ target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/> </a>
     <a href=https://getbootstrap.com/ target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 </p>
