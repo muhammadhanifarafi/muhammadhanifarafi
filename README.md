@@ -46,5 +46,5 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/muhammad-hanif-arafi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://id.linkedin.com/in/muhammad-hanif-arafi-575860198"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UCkpqaiZ2WzwUfM5AbYCTqWQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
