@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Saya sekarang sedang berkuliah di **Universitas Sebelas Maret**
+- 🔭 Saya lulusan **Universitas Sebelas Maret**
 
 - 🌱 Saya sekarang sedang menekuni **Teknologi Web dan Aplikasi Mobile**
 
